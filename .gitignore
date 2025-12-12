@@ -1,0 +1,4 @@
+digit_recognition_model.h5
+model_info.pkl
+.venv
+__pycache__
