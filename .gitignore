@@ -2,3 +2,5 @@ digit_recognition_model.h5
 model_info.pkl
 .venv
 __pycache__
+api_logs.log
+*.log
